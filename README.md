@@ -12,14 +12,15 @@ Some codes are represented in IPython notebooks, because they offer a convenient
 
 # Alt Labs Series
 
-### 1. Python for Data Analysis
+### Python for Data Analysis
 - Python Crash Course
 - Numpy
 - Pandas
 - Matplotlib
 
 <br>
-### 2. Introduction to Supervised and Unsupervised Learning
+
+### Introduction to Supervised and Unsupervised Learning
 - Machine Learning Introduction
 - Supervised Regression
 - Supervised Classification
