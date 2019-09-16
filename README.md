@@ -25,3 +25,11 @@ Some codes are represented in IPython notebooks, because they offer a convenient
 - Supervised Regression
 - Supervised Classification
 - Unsupervised k-means Clustering
+
+<br>
+
+### Introduction to Deep Learning and Keras
+- Deep Learning Introduction
+- MNIST Handwritten Digit Classification
+- Keras.models.Sequential() introduction
+- Basic Neural network architecture and intro to epochs, batch size, optimizers
