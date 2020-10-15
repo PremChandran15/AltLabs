@@ -64,3 +64,17 @@ Series 6
 - Loops
 - Functions
 
+<br>
+
+Series 7
+### Introduction to Blockchain
+- No Hands-on, theoretical class by Blockchain expert, Sonali Patwe
+
+<br>
+
+Series 10
+### Python for Data Analytics - Online course
+- Codes in Co-lab
+- Python Crash Course (list, dictionaries, loops, if-else, functions)
+- Pandas
+
