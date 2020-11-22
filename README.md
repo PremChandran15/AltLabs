@@ -76,5 +76,13 @@ Series 10
 ### Python for Data Analytics - Online course
 - Codes in Co-lab
 - Python Crash Course (list, dictionaries, loops, if-else, functions)
-- Pandas
+- Pandas Data Analysis using Salaries dataset
+
+<br>
+
+Series 11
+### Python for Data Analytics Part II
+- Codes in Co-lab
+- Pandas Data analysis using E-commerce purchases
+- Pandas Data analysis using Breast Cancer dataset
 
