@@ -86,3 +86,11 @@ Series 11
 - Pandas Data analysis using E-commerce purchases
 - Pandas Data analysis using Breast Cancer dataset
 
+<br>
+
+Series 12
+### Introduction to Machine Learning
+- Codes in Co-lab
+- Pandas Data analysis using Breast Cancer dataset
+- Machine Learning breast cancer dataset
+
